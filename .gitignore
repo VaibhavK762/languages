@@ -1,0 +1,10 @@
+# C++
+*.out
+*.exe
+
+# Java
+*.class
+
+# Python
+__pycache__/
+*.pyc
